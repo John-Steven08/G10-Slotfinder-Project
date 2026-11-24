@@ -125,7 +125,7 @@ Manual appointment scheduling often causes accidental double-bookings, miscommun
 
 | Name | GitHub |
 |---|---|
-| Advincula, Vreanna | - | [@vreanna1008](https://github.com/vreanna1008) |
-| Anonuevo, Kian Zyrel | - | [@kianzyrel23](https://github.com/kianzyrel23) |
+| Advincula, Vreanna | [@vreanna1008](https://github.com/vreanna1008) |
+| Anonuevo, Kian Zyrel | [@kianzyrel23](https://github.com/kianzyrel23) |
 | Banaag, Rainier M. | [@rainrain](https://github.com/rainrain) |
 | Famisaran, John Steven | [@John-Steven08](https://github.com/John-Steven08) |
